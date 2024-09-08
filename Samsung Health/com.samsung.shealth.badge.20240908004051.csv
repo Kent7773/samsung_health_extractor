@@ -1,7 +1,0 @@
-﻿com.samsung.shealth.badge,6272009,1
-number_of_streak,start_time,exercise_type,device_type,status,sleep_coaching_session_uuid,update_time,create_time,source_pkg_name,key,program_id,is_shown,time_offset,extra_data,deviceuuid,pkg_name,exercise_data_uuid,controller_id,end_time,datauuid
-,2023-09-01 04:00:00.000,,10009,1,,2023-09-02 03:16:15.892,2023-09-02 03:16:15.892,com.sec.android.app.shealth,step_milestone_10k_steps,,,UTC-0500,7535.370026290417,5vLahzXBCy,com.sec.android.app.shealth,,tracker.pedometer,2023-09-01 04:00:00.000,56b12097-f5f1-4988-95c9-bd84ca8ac73f,
-,2023-12-30 17:41:53.944,,,1,,2023-12-30 17:41:53.951,2023-12-30 17:41:53.951,,sleep_goal_first_sleep,,,UTC-0500,,5vLahzXBCy,com.sec.android.app.shealth,,Sleep.Goal,2023-12-30 17:41:53.944,18194e0a-3893-4e46-a9a8-7bdebce2aff2,
-,2023-12-31 23:29:09.884,,,1,,2023-12-31 23:29:10.495,2023-12-31 23:29:10.495,,weight_first_body_check,,,UTC-0500,,PZSgGx/3oA,com.sec.android.app.shealth,,tracker.weight,2023-12-31 23:29:09.884,14c6d0ab-6421-424d-86f8-193b49168ab9,
-,2024-01-10 12:46:42.551,1001,,1,,2024-01-10 15:16:24.840,2024-01-10 13:04:25.042,,exercise_goal_first_achieve,,1,UTC-0500,,PZSgGx/3oA,com.sec.android.app.shealth,d885ea61-9ffa-4d3a-b86f-e4de83015933,tracker.exercise,2024-01-10 13:04:24.676,16534027-93b4-4934-a70c-5bc99af750d3,
-,2024-04-24 01:54:29.822,1002,,1,,2024-04-24 01:59:46.701,2024-04-24 01:59:46.701,,running_first_run,,,UTC-0400,,PZSgGx/3oA,com.sec.android.app.shealth,e8b4b1f8-e062-473a-8232-a3babb736a60,tracker.exercise,2024-04-24 01:59:46.058,a6da4a78-1ec7-415d-a51e-db89845e4948,
